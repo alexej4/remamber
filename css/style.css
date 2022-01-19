@@ -3,6 +3,7 @@ body {
   color: green;
 }
 div {
+  border: double grey;
   display: flex;
   float: center;
 }
