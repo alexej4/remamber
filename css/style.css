@@ -2,3 +2,7 @@ body {
   background-color: aquamarine;
   color: green;
 }
+div {
+  display: flex;
+  float: center;
+}
